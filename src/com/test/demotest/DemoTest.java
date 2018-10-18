@@ -6,6 +6,9 @@ public class DemoTest {
 		System.out.println("First GitHub project!");
 		System.out.println("DONE!!");
 		System.out.println("Great Works!!");
+		
+		Master master = new Master();
+		master.show();
 	}
 
 }
