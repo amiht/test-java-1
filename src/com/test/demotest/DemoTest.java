@@ -9,6 +9,7 @@ public class DemoTest {
 		
 		Master master = new Master();
 		master.show();
+		master.display();
 	}
 
 }
